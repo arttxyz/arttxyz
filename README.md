@@ -1,5 +1,7 @@
 # 💫 About Me:
-Olá! 👋<br><br>Sou estudante do 2º período de Engenharia de Software, apaixonado por tecnologia e desenvolvimento de soluções digitais. Ao longo da minha formação, tenho trabalhado principalmente com desenvolvimento frontend, utilizando tecnologias como React, TypeScript, HTML, CSS, Tailwind e Vite, além de aplicar lógica de programação e estrutura de dados na construção de projetos práticos.<br><br>Atualmente, tenho me dedicado ao aprendizado contínuo e ao desenvolvimento de projetos autorais, com foco inicial em Frontend, buscando aprofundar meus conhecimentos em interfaces modernas, responsivas e bem estruturadas. Meu objetivo é expandir gradualmente para o desenvolvimento Full Stack, explorando novas tecnologias, arquiteturas e boas práticas de software.<br><br>Estou sempre aberto a trocar experiências, aprender com a comunidade e colaborar em novos projetos. 📫 Entre em contato comigo preferencialmente pelo LinkedIn para conversar, trocar ideias ou explorar oportunidades.
+Olá! 👋<br><br>Sou estudante do 2º período de Engenharia de Software, com foco em desenvolvimento frontend. Trabalho com React, TypeScript, HTML, CSS, Tailwind e Vite, aplicando lógica de programação e estrutura de dados em projetos práticos.
+
+Atualmente, desenvolvo projetos autorais e busco aprofundar meus conhecimentos em interfaces modernas e responsivas, com o objetivo de evoluir para o desenvolvimento Full Stack. Estou aberto a trocar experiências, aprender com a comunidade e colaborar em novos projetos.
 
 
 ## 🌐 Socials:
