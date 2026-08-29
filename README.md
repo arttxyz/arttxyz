@@ -1,5 +1,5 @@
 #  About Me:
-Olá! <br><br>Sou estudante do 3º período de Engenharia de Software, com foco em desenvolvimento frontend. Trabalho com React, TypeScript, HTML, CSS, Tailwind e Vite, aplicando lógica de programação e estrutura de dados em projetos práticos.
+Olá! <br><br>Sou estudante do 4º período de Engenharia de Software, com foco em desenvolvimento frontend. Trabalho com React, TypeScript, HTML, CSS, Tailwind e Vite, aplicando lógica de programação e estrutura de dados em projetos práticos.
 
 Atualmente, desenvolvo projetos autorais e busco aprofundar meus conhecimentos em interfaces modernas e responsivas, com o objetivo de evoluir para o desenvolvimento Full Stack. Estou aberto a trocar experiências, aprender com a comunidade e colaborar em novos projetos.
 
