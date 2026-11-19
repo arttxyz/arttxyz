@@ -1,9 +1,13 @@
 # About Me:
 
-Olá! <br><br>Sou estudante do 4º período de Engenharia de Software, com foco em desenvolvimento frontend. Trabalho com React, TypeScript, HTML, CSS, Tailwind e Vite, aplicando lógica de programação e estrutura de dados em projetos práticos.
+Olá! 👋
 
-Atualmente, desenvolvo projetos autorais e busco aprofundar meus conhecimentos em interfaces modernas e responsivas, com o objetivo de evoluir para o desenvolvimento Full Stack. Estou aberto a trocar experiências, aprender com a comunidade e colaborar em novos projetos.
+Estudante de **Engenharia de Software (4º período)** focado em desenvolvimento **Full Stack** e arquitetura de aplicações web de ponta a ponta. 
 
+* **Frontend & UI:** Desenvolvimento de interfaces reativas e responsivas com **React, TypeScript, HTML, CSS, Tailwind e Vite**, aliadas à experiência visual com **Adobe Photoshop** e **After Effects**.
+* **Backend & Dados:** Criação de APIs REST, motores de coleta/processamento de dados e sistemas concorrentes utilizando **Rust, Go e Python**, com modelagem e persistência em bancos **SQL (SQLite / Oracle)**.
+
+Busco constantemente aprender novas ferramentas e aplicar engenharia prática em projetos autorais. Aberto a conexões, troca de ideias e colaboração em novos projetos!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ruinnart) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arthur-albertini-66aa45207/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arthuralbertini06@gmail.com) 
